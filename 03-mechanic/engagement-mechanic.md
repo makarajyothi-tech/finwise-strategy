@@ -4,18 +4,23 @@
 
 ## The mechanic
 
-_The habit loop: trigger → action → reward → investment._
+**Mechanic:** Streak Counter
+
+- **Trigger:** Notification
+- **Action:** lands on the screen to review and confirm
+- **Reward:** feel good with seeing reality in numbers
+- **Investment:** opening notification
 
 _____
 
 ## Rationale
 
-_Why this drives retention before the paywall._
+This might address the churn as it can act as a reminder to look at the numbers and get the detail to act on the suggestions to get better
 
 _____
 
 ## Wireframe
 
-_A link or image of the mechanic in context._
+[Wireframe link](https://trial-aha-path.lovable.app/)
 
 _____
